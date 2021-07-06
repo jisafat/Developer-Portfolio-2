@@ -5,14 +5,22 @@ body{
 .orange-color{
     color: orange;
 }
+.first-para{
+    margin-top: 17%;
+}
 h1{
     font-size: 40px;
+   line-height: 35px;
+   margin-left: 120px;
+}
+
+ .faul{
+    margin-left: 120px;
 }
 
 .half-width{
     width: 50%;
    padding-left: 5%;
-   
 }
 
 .image{
@@ -20,7 +28,9 @@ h1{
     right:50px;
     top: 0;
     size: 80px;
+    margin-top: 6%;
 }
+
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(orange , green);
@@ -29,5 +39,95 @@ h1{
     padding-top: 10px;
     padding-bottom: 10px;
     border-radius: 100px;
+    margin-left: 115px;
+    font-size: 25px;
 }
 
+.seceond-part{
+    margin-top: 30%;
+    width: 50%;
+    text-align: justify;
+    margin-left: 45%;
+
+}
+
+.first-section{
+    background-image: url(images/Frame\ 58.jpg);
+}
+
+.faltu{
+    margin-top: 10%;
+    margin-left: 120px;
+}
+
+.photo{
+    position: absolute;
+    left:50px;
+    top: 110%;
+    size: 80px;
+    margin-top: 6%;
+}
+
+.end-div{
+    text-align: center;
+    margin-top: 10%;
+}
+
+.exprience-area{
+    display: flex;
+   width: 50%;
+    
+}
+
+.first-recipie{
+    padding-right: 10%;
+    margin-left: 5%;
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 15px;
+}
+.seceond-recipie{
+
+    padding-right: 10%; 
+    margin-left: 10%;
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 5px;
+    border-radius: 15px;
+}
+
+.third-recipie{
+
+    padding-right: 10%;
+    margin-left: 10%;
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 15px;
+}
+.im{
+    margin-top: 15%;
+}
+.im-im{
+    margin-top: 15%;
+}
+.im-im-im{
+    margin-top: 15%;
+}
+footer{
+    margin-top: 10%;
+    text-align: center;
+    background-color: rgb(36, 23, 23);
+   color: white;
+   background-origin: border-box;
+    
+
+}
+.orange{
+    color: orange;
+}
